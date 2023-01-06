@@ -1,5 +1,27 @@
 # Changelog
 
+## [1.2.0](https://github.com/WDaan/VueTorrent/compare/v1.1.0...v1.2.0) (2023-01-06)
+
+
+### Features
+
+* add pending pieces color to canvas ([#592](https://github.com/WDaan/VueTorrent/issues/592)) @Larsluph ([5132d4d](https://github.com/WDaan/VueTorrent/commit/5132d4decf207d508e91f8b65ced31d50dc3f838))
+* Add support for "autorun on torrent added" option ([#580](https://github.com/WDaan/VueTorrent/issues/580)) @Larsluph ([19bf989](https://github.com/WDaan/VueTorrent/commit/19bf989c7ea8d8f3ed16ab35416575bfcdc3c21c))
+
+
+### Bug Fixes
+
+* Default change location not prefilling ([#583](https://github.com/WDaan/VueTorrent/issues/583)) @Larsluph ([b53c331](https://github.com/WDaan/VueTorrent/commit/b53c331d4c98635f38945d9898ab72358bb7bf34))
+
+
+### Improvements
+
+* Add "Completed On" to dashboard customization settings ([#578](https://github.com/WDaan/VueTorrent/issues/578)) ([02db288](https://github.com/WDaan/VueTorrent/commit/02db288db287a3d423a4c14e946cfb6a44cc2ed9))
+* Add scroll support in TorrentRightClickMenu ([#589](https://github.com/WDaan/VueTorrent/issues/589)) @Larsluph ([cd2f764](https://github.com/WDaan/VueTorrent/commit/cd2f7647e6178805c7f276aeee1c2e35087a532a))
+* Add toast when renameFile and renameFolder returns 409 Conflict ([#588](https://github.com/WDaan/VueTorrent/issues/588)) @Larsluph ([e01d9a0](https://github.com/WDaan/VueTorrent/commit/e01d9a0b42886646a09cc3439e97efb16a5316ca))
+* improve russian translations ([#593](https://github.com/WDaan/VueTorrent/issues/593)) @Balya ([684690a](https://github.com/WDaan/VueTorrent/commit/684690ac7b7a443212e6aadc08aedfca91fc1dc4))
+* reset pageNumber when changing filters to prevent value overflow ([#591](https://github.com/WDaan/VueTorrent/issues/591)) @Larsluph ([719c5e9](https://github.com/WDaan/VueTorrent/commit/719c5e9ebafff56cfe077b8836d55823ae78b947))
+
 ## [1.1.0](https://github.com/WDaan/VueTorrent/compare/v1.0.1...v1.1.0) (2022-12-30)
 
 
